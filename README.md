@@ -30,7 +30,7 @@ nltk>=3.7
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bidirectional-lstm-word-prediction.git
+git clone https://github.com/Prashidha0O1/next_words_prediction.git
 cd bidirectional-lstm-word-prediction
 ```
 
